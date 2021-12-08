@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>840927886027-ctom174gkni8vr8ggnl5ls3chisqaej4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.840927886027-ctom174gkni8vr8ggnl5ls3chisqaej4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMrUiDh6jewKpnfuNAnnWJaQdK2ERUMcA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>840927886027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.merarozgaar</string>
+	<key>PROJECT_ID</key>
+	<string>mera-rozgaar-d8aea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mera-rozgaar-d8aea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:840927886027:ios:3301aaaa7caab1698ef94e</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840927886027",
+    "project_id": "mera-rozgaar-d8aea",
+    "storage_bucket": "mera-rozgaar-d8aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840927886027:android:5de5e1e5103f9bb18ef94e",
+        "android_client_info": {
+          "package_name": "app.merarozgaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840927886027-dt7qr2f21f6o07noe16uj3oa4ft8h8um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmZcE0owDtTblyxo57BgE4LOQ6dZwwCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840927886027-dt7qr2f21f6o07noe16uj3oa4ft8h8um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
